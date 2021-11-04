@@ -1,3 +1,3 @@
 # Dummy PR
 
-Easy Review の動作確認で使用するリポジトリ
+Easy Review の動作確認で使用するリポジトリです
